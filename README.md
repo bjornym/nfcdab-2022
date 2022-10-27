@@ -36,3 +36,9 @@ Views: 3934
 Gárdony (HU) locations:
 Gallery 27349: https://www.openstreetmap.org/search?query=47.208258%20N%2C%2018.637858%20E#map=15/47.2083/18.6379
 5th street: https://www.openstreetmap.org/note/3328980
+
+Pedreguer (ES)
+locations https://www.google.com/maps/search/%23nfcdab+pedreguer/@38.793896,0.0191779,14z/data=!3m1!4b1
+#nfcdab Q2X5+4R Pedreguer https://goo.gl/maps/Es5JtM37iXxHurHK9
+#nfcdab Q2WQ+84 Pedreguer https://goo.gl/maps/MXEC6XVMDdHSoPDt7
+docs: https://noemata.net/halfapound/next-beginning/nfcdab_pedreguer,es_bjorn/home.html
