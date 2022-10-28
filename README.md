@@ -16,6 +16,7 @@ All are welcome to create local forks, choose a location, invite and/ or put out
 
 All zip files with logo, poster images and qr codes are available here! 
 
+<pre>
 
 <img src="https://noemata.net/halfapound/next-beginning/nfcdab-dusseldorf-140522-next-beginning.jpg">
 
@@ -52,3 +53,4 @@ locations https://www.google.com/maps/search/%23nfcdab+pedreguer/@38.793896,0.01
 #nfcdab Q2X5+4R Pedreguer https://goo.gl/maps/Es5JtM37iXxHurHK9
 #nfcdab Q2WQ+84 Pedreguer https://goo.gl/maps/MXEC6XVMDdHSoPDt7
 docs: https://noemata.net/halfapound/next-beginning/nfcdab_pedreguer,es_bjorn/home.html
+</pre>
