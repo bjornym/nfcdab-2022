@@ -17,10 +17,14 @@ All are welcome to create local forks, choose a location, invite and/ or put out
 All zip files with logo, poster images and qr codes are available here! 
 
 
+<img src="https://noemata.net/halfapound/next-beginning/nfcdab-dusseldorf-140522-next-beginning.jpg">
+
 Düsseldorf (DE) location:
 All but gone after a quick moment at:
 https://www.google.com/maps/search/gallery+Wunderzee+D%C3%BCsseldorf,+germany/@51.2353013,6.7285965,13z
 
+
+<img src="https://noemata.net/halfapound/next-beginning/nfcdab_Thessaloniki_konstantina_mavridou/NFC-thessaloniki.png">
 Thessaloniki (GR) by location:  
 https://goo.gl/maps/ 228NSZKFufdGRjHk6
 Views: 6360 
@@ -33,9 +37,13 @@ Views: 4659
 https://goo.gl/maps/fVfnC2ZRNLVF7Vtu5
 Views: 3934
 
+
+<img src="https://noemata.net/halfapound/next-beginning/nfcdab_gardoni,_hu_-_zsolt_mesterhazy/nfc2022-poster-bg-image3-1536x691.jpg">
+
 Gárdony (HU) locations:
 Gallery 27349: https://www.openstreetmap.org/search?query=47.208258%20N%2C%2018.637858%20E#map=15/47.2083/18.6379
 5th street: https://www.openstreetmap.org/note/3328980
+
 
 <img src="https://noemata.net/halfapound/next-beginning/nfcdab_pedreguer,es_bjorn/nfc2022-poster-bg-image.jpg">
 
