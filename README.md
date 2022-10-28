@@ -23,7 +23,7 @@ Düsseldorf (DE) location:
 All but gone after a quick moment at:
 https://www.google.com/maps/search/gallery+Wunderzee+D%C3%BCsseldorf,+germany/@51.2353013,6.7285965,13z
 
-<p><hr><p>
+<br><br><p><hr><p><br><br>
 
 <img src="https://noemata.net/halfapound/next-beginning/nfcdab_Thessaloniki_konstantina_mavridou/NFC-thessaloniki.png">
 Thessaloniki (GR) by location:  
@@ -39,7 +39,7 @@ https://goo.gl/maps/fVfnC2ZRNLVF7Vtu5
 Views: 3934
 
 
-<p><hr><p>
+<br><br><p><hr><p><br><br>
 
 <img src="https://noemata.net/halfapound/next-beginning/nfcdab_gardoni,_hu_-_zsolt_mesterhazy/nfc2022-poster-bg-image3-1536x691.jpg">
 
@@ -48,7 +48,7 @@ Gallery 27349: https://www.openstreetmap.org/search?query=47.208258%20N%2C%2018.
 5th street: https://www.openstreetmap.org/note/3328980
 
 
-<p><hr><p>
+<br><br><p><hr><p><br><br>
 
 <img src="https://noemata.net/halfapound/next-beginning/nfcdab_pedreguer,es_bjorn/nfc2022-poster-bg-image.jpg">
 
